@@ -1,0 +1,16 @@
+C:\Users\Juliana\source\repos\StopWatch\StopWatch\bin\Debug\net5.0\StopWatch.exe
+C:\Users\Juliana\source\repos\StopWatch\StopWatch\bin\Debug\net5.0\StopWatch.deps.json
+C:\Users\Juliana\source\repos\StopWatch\StopWatch\bin\Debug\net5.0\StopWatch.runtimeconfig.json
+C:\Users\Juliana\source\repos\StopWatch\StopWatch\bin\Debug\net5.0\StopWatch.runtimeconfig.dev.json
+C:\Users\Juliana\source\repos\StopWatch\StopWatch\bin\Debug\net5.0\StopWatch.dll
+C:\Users\Juliana\source\repos\StopWatch\StopWatch\bin\Debug\net5.0\ref\StopWatch.dll
+C:\Users\Juliana\source\repos\StopWatch\StopWatch\bin\Debug\net5.0\StopWatch.pdb
+C:\Users\Juliana\source\repos\StopWatch\StopWatch\obj\Debug\net5.0\StopWatch.csprojAssemblyReference.cache
+C:\Users\Juliana\source\repos\StopWatch\StopWatch\obj\Debug\net5.0\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliana\source\repos\StopWatch\StopWatch\obj\Debug\net5.0\StopWatch.AssemblyInfoInputs.cache
+C:\Users\Juliana\source\repos\StopWatch\StopWatch\obj\Debug\net5.0\StopWatch.AssemblyInfo.cs
+C:\Users\Juliana\source\repos\StopWatch\StopWatch\obj\Debug\net5.0\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\Juliana\source\repos\StopWatch\StopWatch\obj\Debug\net5.0\StopWatch.dll
+C:\Users\Juliana\source\repos\StopWatch\StopWatch\obj\Debug\net5.0\ref\StopWatch.dll
+C:\Users\Juliana\source\repos\StopWatch\StopWatch\obj\Debug\net5.0\StopWatch.pdb
+C:\Users\Juliana\source\repos\StopWatch\StopWatch\obj\Debug\net5.0\StopWatch.genruntimeconfig.cache
